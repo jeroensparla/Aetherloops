@@ -1,0 +1,5 @@
+{
+  "name": "Aether Loop",
+  "description": "An algorithmic soundscape generator inspired by modern hardware samplers. Create infinite, non-repeating ambient textures with asynchronous looping, modulation, and real-time effects.",
+  "requestFramePermissions": []
+}
